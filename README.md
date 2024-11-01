@@ -1,21 +1,33 @@
-👋
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_sundaram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sundaramjha) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/jhsundaram) 
 
+# Hi there, I'm Sundaram  👋
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sundaram2021&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sundaram2021&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sundaram2021&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Welcome to my GitHub Universe! I'm a passionate Cloud Native Golang Developer with a knack for building scalable, production-ready applications. My projects span microservices, Kubernetes orchestration, cloud-native development, and complex backend systems in Golang.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sundaram2021&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+## 🌐 Connect with Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_sundaram) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sundaramjha) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/jhsundaram)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sundaram2021&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+- 💼 Currently working on [Dockit](https://github.com/sundaram2021/dockit), a Docker Tool.
+- 🎓 Always learning new technologies and expanding my knowledge in **cloud Native Development** and **Complex Systems**.
+- 📈 Experienced in deploying robust cloud-native applications and automating CI/CD pipelines with tools like ArgoCD, and GitHub Actions.
+- 🔭 You can find some of my recent projects on  Kubernetes, and Golang [here](https://github.com/sundaram2021/go-projects).
+
+---
+
+## ⚙️ Tech Stack
+- **Languages:** Golang, JavaScript, TypeScript, SQL, Python
+- **Backend:** Gin, Express.js, gRPC, RESTful APIs
+- **Cloud:** Kubernetes, Docker, DigitalOcean, Civo Cloud
+- **CI/CD:** GitHub Actions, ArgoCD
+- **Monitoring & Logging:** Prometheus, Grafana
+- **Version Control:** Git, GitHub
+- **Databases:** PostgreSQL, SQLite, MongoDB
+---
+
+## 📜 Random Dev Quote
+> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
