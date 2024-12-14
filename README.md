@@ -25,10 +25,10 @@ Welcome to my GitHub Universe! I'm a passionate Cloud Native Golang Developer wi
 - **Languages:** Golang, JavaScript, TypeScript, SQL, Python
 - **Backend:** Gin, Express.js, gRPC, RESTful APIs
 - **Cloud:** Kubernetes, Docker, DigitalOcean, Civo Cloud
-- **CI/CD:** GitHub Actions, ArgoCD
+- **CI/CD:** GitHub Actions
 - **Monitoring & Logging:** Prometheus, Grafana
 - **Version Control:** Git, GitHub
-- **Databases:** PostgreSQL, SQLite, MongoDB
+- **Databases:** PostgreSQL
 
 
 
