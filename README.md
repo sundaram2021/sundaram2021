@@ -14,10 +14,10 @@ Welcome to my GitHub Universe! I'm a passionate Cloud Native Golang Developer wi
 
 ## 🧑‍💻 About Me
 
-- 💼 Currently working on [Smurf](https://smurf.clouddrove.com/), a Cloud Native Tool.
+- 💼 Currently working on some Golang stuff.
 - 🎓 Always learning new technologies and expanding my knowledge in **cloud Native Development** and **Complex Systems**.
 - 📈 Experienced in deploying robust cloud-native applications and automating CI/CD pipelines with tools like ArgoCD, and GitHub Actions.
-- 🔭 You can find some of my recent projects on  Kubernetes, and Golang [here](https://github.com/sundaram2021/go-projects).
+- 🔭 You can find some of my recent projects on Golang [here](https://github.com/sundaram2021/go-projects).
 
 
 
