@@ -1,5 +1,5 @@
 
-<div align="center">
+
 
 # Hey there! 👋 I'm Sundaram
 
@@ -7,7 +7,7 @@
 
 ### Thanks for stopping by! 🙏 
 
-![Sundaram's GitHub stats](https://github-readme-stats.vercel.app/api?username=sundaram2021&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)
+![Sundaram's GitHub stats](https://github-readme-stats.vercel.app/api?username=sundaram2021&show_icons=true&theme=dark)
 
 
 ## 💭 Random Dev Quote
@@ -19,4 +19,4 @@
 
 ### ⭐ Feel free to explore my repositories and don't forget to star if you find something interesting!
 
-</div>
+
