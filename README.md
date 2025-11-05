@@ -7,6 +7,8 @@
 
 ### Thanks for stopping by! 🙏 
 
+![Sundaram's GitHub stats](https://github-readme-stats.vercel.app/api?username=sundaram2021&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)
+
 
 ## 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
