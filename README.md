@@ -24,7 +24,7 @@
 **Languages:** Golang • JavaScript • TypeScript • Python  
 **Backend:** Gin • Node.js • Express.js • gRPC • REST APIs  
 **Cloud & DevOps:** Kubernetes • Docker • DigitalOcean • Civo Cloud • GitHub Actions  
-**Database:** PostgreSQL
+**Databases:** PostgreSQL
 
 ---
 
