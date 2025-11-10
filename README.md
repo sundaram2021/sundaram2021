@@ -3,9 +3,22 @@
 
 # Hey there! 👋 I'm Sundaram
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWt1dDB3ZWd2bXJobnhoeWM5b3QzNXIzaGRoc3Z6cDg3d3FibzE4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif"/>
+- 💼 Currently cooking something with AI (Agents, Rag, Fine Tuning, Small Language Models).
+- 🎓 Always learning new technologies and expanding my knowledge in **Software Engineering**.
+- 📈 Experienced in building robust and scalable applications **0 -> 1**.
+- 🔭 You can find some of my recent projects [here](https://sundaram2021.vercel.app).
 
-### Thanks for stopping by! 🙏 
+
+
+## ⚙️ Tech Stack
+- **Languages:** Golang, JavaScript, TypeScript, Python
+- **Backend:** Gin, Express.js, gRPC, RESTful APIs, FastAPI
+- **Backend:** Gin,Node.js, Express.js, gRPC, RESTful APIs
+- **Cloud:** Kubernetes, Docker, DigitalOcean, Civo Cloud
+- **CI/CD:** GitHub Actions
+- **Version Control:** Git, GitHub
+
+
 
 ![Sundaram's GitHub stats](https://github-readme-stats.vercel.app/api?username=sundaram2021&show_icons=true&theme=dark)
 
