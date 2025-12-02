@@ -31,7 +31,7 @@
 | **Static Blog Site Generator** | Blog Site Generator with built-in GitHub Actions and hosting capabilities | TypeScript, Next.js, React, Tailwind CSS, Drizzle ORM | [GitHub](https://github.com/sundaram2021/github-blog-generator) • [Live](https://github-blog-generator-psi.vercel.app/) |
 | **n8n for GitHub** | A workflow automation tool for GitHub with visual node-based interface | TypeScript, React, Node.js, Express, Socket.io, Supabase | [GitHub](https://github.com/sundaram2021/n8nforgithub) • [Live](https://n8nforgithub.vercel.app/) |
 | **Smurf** | CLI application to simplify and automate commands for Terraform, Docker, Helm, and other DevOps tasks | Go, Docker, Terraform, Helm, Kubernetes | [GitHub](https://github.com/clouddrove/smurf) • [Live](https://smurf.clouddrove.com) |
-| **AWS Cost Optimization Calculator** | Tool for calculating and optimizing AWS infrastructure costs | - | [Live](https://calculator.clouddrove.com) |
+| **AWS Cost Optimization Calculator** | Tool for calculating and optimizing AWS infrastructure costs | Node.js , Express.js | [Live](https://calculator.clouddrove.com) |
 | **Distributed Cache** | Production-ready distributed cache with consistent hashing, multiple eviction policies, compression, and replication | Go, gRPC, Prometheus | [GitHub](https://github.com/sundaram2021/distributed-cache) |
 
 ## 💭 Random Dev Quote
