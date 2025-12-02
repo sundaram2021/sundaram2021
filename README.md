@@ -19,10 +19,6 @@
 - **Version Control:** Git, GitHub
 
 
-
-![Sundaram's GitHub stats](https://github-readme-stats.vercel.app/api?username=sundaram2021&show_icons=true&theme=dark)
-
-
 ## 🚀 Top Projects
 
 | Project | Description | Tech Stack | Links |
