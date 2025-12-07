@@ -3,7 +3,7 @@
 
 # Hey there! 👋 I'm Sundaram
 
-- 💼 Currently cooking something with AI (Agents, Rag, Fine Tuning, Small Language Models).
+- 💼 Intrested in Full Stack , Backend,  AI (Agents, Rag, Fine Tuning, Small Language Models) technologies.
 - 🎓 Always learning new technologies and expanding my knowledge in **Software Engineering**.
 - 📈 Experienced in building robust and scalable applications **0 -> 1**.
 - 🔭 You can find some of my recent projects [here](https://sundaram2021.vercel.app).
