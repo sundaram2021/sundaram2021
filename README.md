@@ -25,7 +25,11 @@
 - **Project Bootstrap MCP**: Scaffold new projects (Next.js, Vite, Go) with ready-to-run structure with all the default Installation(Tailwind Preconfigured in the react projects).
 - **Prompt Enhancer MCP**: Expand short prompts into detailed, context-aware prompts (coding, debugging, writing)
 
-
+## 🧠Rag System [LINK](https://github.com/sundaram2021/rag-system)
+- **Upload PDFs** → **Ask questions** → **Get streaming answers with source citations**  
+- **Fast** • **Cheap** • **Private embeddings**  
+-  **Node.js** • **Express** • **Socket.IO** • **Xenova Transformers** • **Groq API**
+  
 ## 🚀 Top Projects
 
 | Project | Description | Tech Stack | Links |
