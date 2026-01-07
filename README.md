@@ -21,7 +21,7 @@
 
 ## 🤖 Agents
 - **Exa Deep Research Agent** [REPO](https://github.com/sundaram2021/exa-research-agent)
-- **Questioning Summarizer & Crisp Reasoner Agent** [REPO](https://github.com/sundaram2021/exa-research-agent)
+- **An Agent which Asks Questions and Fetch Details according to user response** [REPO](https://github.com/sundaram2021/exa-research-agent)
 
 ## 🧠Rag System [LINK](https://github.com/sundaram2021/rag-system)
 - **Upload PDFs** → **Ask questions** → **Get streaming answers with source citations**  
