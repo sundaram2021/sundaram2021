@@ -8,6 +8,7 @@
 - 📈 Experienced in building robust and scalable applications **0 -> 1**.
 - 🔭 You can find some of my recent projects [here](https://sundaram2021.vercel.app).
 - 📝 Reasearch on Fuzzy Logic [here](https://ieeexplore.ieee.org/document/10486077)
+- 💪 Snapshot of my Technical Expertise, Depth and Behavioural Patterns [here](https://app.skillsync.wiki/profile/sundaram2021)
 
 
 
