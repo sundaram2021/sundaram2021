@@ -11,6 +11,11 @@
 - 💪 Snapshot of my Technical Expertise, Depth and Behavioural Patterns [here](https://app.skillsync.wiki/profile/sundaram2021)
 
 
+# 📊 GitHub Activity
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sundaram2021&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sundaram2021&theme=github_dark&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sundaram2021&theme=github_dark) |
+|---|---|---|
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sundaram2021&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sundaram2021&theme=github_dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sundaram2021&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) |
 
 ## ⚙️ Tech Stack
 - **Languages:** Golang, JavaScript, TypeScript, Python
@@ -58,3 +63,6 @@
 ### ⭐ Feel free to explore my repositories and don't forget to star if you find something interesting!
 
 
+### 👁️ Visitor Counter
+
+[![Sundaram Kumar Jha profile views](https://u8views.com/api/v1/github/profiles/93595231/views/day-week-month-total-count.svg)](https://u8views.com/github/sundaram2021)
