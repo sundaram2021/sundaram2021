@@ -2,7 +2,7 @@
 
 
 ### Hey there! 👋 I'm Sundaram
-
+- 👨‍💻 core contributor at Aden Hive (YC 2020) and Traceroot AI (YC 2025).
 - 💼 Intrested in Full Stack , Backend,  AI (Agents, Rag, Fine Tuning, Small Language Models) technologies.
 - 🎓 Always learning new technologies and expanding my knowledge in **Software Engineering**.
 - 📈 Experienced in building robust and scalable applications **0 -> 1**.
