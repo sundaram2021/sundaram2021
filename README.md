@@ -30,7 +30,7 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sundaram2021&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sundaram2021&theme=github_dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sundaram2021&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) |
 
 ### ⚙️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=go,js,ts,python,nodejs,express,fastapi,kubernetes,docker,githubactions,git)](https://skillicons.dev) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=crewai&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,go,nodejs,express,fastapi,kubernetes,docker,githubactions,git)](https://skillicons.dev) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=crewai&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 👁️ Visitor Counter
 
