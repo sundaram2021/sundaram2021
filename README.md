@@ -15,7 +15,7 @@
 - **Voice llm Memory System** - Realtime Graphical Memory System for Voice AI [Github](https://github.com/sundaram2021/voice-ai-memory-system)
 - **AI Observability System** - AI Observability system integrated with Mastra, Vercel and OpenAI sdk [Github](https://github.com/sundaram2021/agnost-integration)
 - **Context Compact System** -  LLM context compaction System [Github](https://github.com/sundaram2021/ai-context-compaction)
-- **Exa Deep Research Agent** — AI agent that asks clarifying questions and fetches research details based on user responses. [GitHub](https://github.com/sundaram2021/exa-research-agent) [Live](https://exa-research-agent.vercel.app/)
+- **Deep Research Agent** — 59 tools, 6 namespaces , total 11 agents, avg response time 3 mins . [GitHub](https://github.com/sundaram2021/deep-research-agent)
 - **Multi-Agent System Design Architect** — 4-agent system with coordinator + sequential pattern (clarify → research → validate → design) for AI-powered tech architecture. [GitHub](https://github.com/sundaram2021/system-design-architect.git) • [Demo](https://www.loom.com/share/2a933a20458d4ff9a21944f3443e6653) • [Live](https://system-design-architect.vercel.app/)
 - **RAG System** — Upload PDFs, ask questions, and get streaming answers with source citations using private embeddings. [GitHub](https://github.com/sundaram2021/rag-system)
 - **MCP Servers** — Suite of MCP servers for Docker management, memory/notes storage, project scaffolding, and prompt enhancement. [GitHub](https://github.com/sundaram2021/mcp-servers)
