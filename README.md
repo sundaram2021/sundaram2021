@@ -12,8 +12,10 @@
 
 ### 🚀 Projects
 
+- **Autonoums Browser Agent** - An Autonomous Browser Agent, clude api , multi-tab support, screnshot support, session persistence etc [Github](https://github.com/sundaram2021/autonomous-browser-agent) • [DEMO](https://github.com/user-attachments/assets/f27d733f-dbc1-42c4-87dc-4f4483cce56b)
 - **Voice llm Memory System** - Realtime Graphical Memory System for Voice AI [Github](https://github.com/sundaram2021/voice-ai-memory-system)
 - **AI Observability System** - AI Observability system integrated with Mastra, Vercel and OpenAI sdk [Github](https://github.com/sundaram2021/agnost-integration)
+- **LLM Observability System from Scratch** - Simple LLM observability platform built from ground up. [Github](https://github.com/sundaram2021/observability-system)
 - **Context Compact System** -  LLM context compaction System [Github](https://github.com/sundaram2021/ai-context-compaction)
 - **Deep Research Agent** — 59 tools, 6 namespaces , total 11 agents, avg response time 3 mins . [GitHub](https://github.com/sundaram2021/deep-research-agent)
 - **Multi-Agent System Design Architect** — 4-agent system with coordinator + sequential pattern (clarify → research → validate → design) for AI-powered tech architecture. [GitHub](https://github.com/sundaram2021/system-design-architect.git) • [Demo](https://www.loom.com/share/2a933a20458d4ff9a21944f3443e6653) • [Live](https://system-design-architect.vercel.app/)
