@@ -1,7 +1,7 @@
 
 
 
-### Hey there! 👋 I'm Sundaram
+### Hey👋! I'm Sundaram
 - 🎮 Creator of [JsQuest](https://jsquest.xyz) A Gamified way to learn JavaScript. Its free to use and no signups needed.
 - 💼 Intrested in Full Stack , Backend,  AI (Agents, Rag, Fine Tuning, Small Language Models) technologies.
 - 🎓 Always learning new technologies and expanding my knowledge in **Software Engineering**.
