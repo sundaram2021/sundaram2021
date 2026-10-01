@@ -3,7 +3,7 @@
 
 ### Hey👋! I'm Sundaram
 - 🎮 Creator of [JsQuest](https://jsquest.xyz) A Gamified way to learn JavaScript. Its free to use and no signups needed.
-- 💼 Intrested in Full Stack , Backend,  AI (Agents, Rag, Fine Tuning, Small Language Models) technologies.
+- 💼 Intrested in Full Stack , Backend,  AI (Agents, Rag, MCPs, Evaluation, Observability, Harnesses) technologies.
 - 🎓 Always learning new technologies and expanding my knowledge in **Software Engineering**.
 - 📈 Experienced in building robust and scalable applications **0 -> 1**.
 - 🔭 You can find some of my recent projects [here](https://sundaram2021.vercel.app).
