@@ -12,6 +12,11 @@
 
 ### 🚀 Projects
 
+- **PaperLint** — AI-powered anomaly and plagiarism detector for research papers; indexes uploads into a FalkorDB graph and returns an evidence-backed, chat-able review. [GitHub](https://github.com/sundaram2021/paperlint) • [Demo](https://www.loom.com/share/3b02e824f3db4e03abfb688114131c1d) • [Live](https://paperlint.vercel.app)
+- **Solar** — Autonomous multi-agent software factory that turns GitHub issues into reviewed, tested PRs using isolated sandboxes and Armoriq intent guardrails. [GitHub](https://github.com/sundaram2021/solar) • [Demo](https://github.com/user-attachments/assets/d462ad6e-9085-4084-bcc5-c77cd187ee62) • [Live](https://solar-wheat-five.vercel.app)
+- **Orchestrator** — Desktop IDE (Tauri 2) orchestrating local coding harnesses (OpenCode + Antigravity) with per-agent git worktrees, MCP routing, checkpoints, and commit-and-PR landing. [GitHub](https://github.com/sundaram2021/orchestrator)
+- **Orbit** — Self-improving software factory for GitHub: classifies issues, then spawns sandboxed implementation/review/test agents with shared memory and eval gates. [GitHub](https://github.com/sundaram2021/orbit) • [Demo](https://github.com/user-attachments/assets/b36434e8-c3f3-4e15-bba1-0e44eeab4639) • [Live](https://orbit-alpha-lemon.vercel.app)
+- **Jaanch** — AI investigation tool that extracts claims from any article and verifies each against independent sources, producing a cited verdict report. [GitHub](https://github.com/sundaram2021/jaanch) • [Demo](https://www.loom.com/share/801ca4e5751b42409c6a164cf7304983) • [Live](https://jaanch-nu.vercel.app)
 - **Autonoums Browser Agent** - An Autonomous Browser Agent, clude api , multi-tab support, screnshot support, session persistence etc [Github](https://github.com/sundaram2021/autonomous-browser-agent) • [DEMO](https://github.com/user-attachments/assets/f27d733f-dbc1-42c4-87dc-4f4483cce56b)
 - **Sandbox Agent** - An autonomous sandbox agent powered by tensorlake sandboxes [Github](https://github.com/sundaram2021/sandbox-agent) [DEMO](https://github.com/user-attachments/assets/eb9fefa2-7a20-42e6-87fa-ab18b0159874
 )
@@ -30,6 +35,13 @@
 - **Smurf** — CLI tool that simplifies and automates DevOps commands across Terraform, Docker, Helm, and Kubernetes. [GitHub](https://github.com/clouddrove/smurf) • [Live](https://smurf.clouddrove.com)
 - **AWS Cost Optimization Calculator** — Tool for estimating and optimizing AWS infrastructure costs. [Live](https://calculator.clouddrove.com)
 - **Distributed Cache** — Production-ready distributed cache in Go with consistent hashing, eviction policies, compression, and replication. [GitHub](https://github.com/sundaram2021/distributed-cache)
+
+### 🎮 Games
+
+- **Bear Rush** — Third-person endless mountain hunt with a deterministically streamed alpine world, procedural wildlife, and stealth/stamina hunting. [GitHub](https://github.com/sundaram2021/bear-rush) • [Live](https://bear-rush.vercel.app)
+- **Minecraft 3D (WebMCP)** — Procedural voxel sandbox with 14 biomes, mobs, and crafting, exposing 23 WebMCP tools so an AI co-pilot can build and terraform in-game. [GitHub](https://github.com/sundaram2021/minecraft) • [Demo](https://www.loom.com/share/ddb2af9b773448e5a8924102c4e1e734) • [Live](https://minecraft-sooty-phi.vercel.app)
+- **Operation Blackout** — Zero-binary-asset first-person shooter: every mesh, texture, sound, and animation generated in code across ~53.6k lines of JavaScript. [Live](https://literate-winner-two.vercel.app)
+- **Starfall Armada** — Three.js arcade shooter built for Cursor Vibe Jam 2026 with 4 pilots, 5 procedural environments, and 5 escalating survival levels. [GitHub](https://github.com/sundaram2021/spaceinvader-vibe-jam) • [Live](https://spaceinvader-vibe-jam.vercel.app)
 
 ### 📊 GitHub Activity
 
