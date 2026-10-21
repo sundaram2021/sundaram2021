@@ -12,29 +12,29 @@
 
 ### 🚀 Projects
 
-- **PaperLint** — AI-powered anomaly and plagiarism detector for research papers; indexes uploads into a FalkorDB graph and returns an evidence-backed, chat-able review. [GitHub](https://github.com/sundaram2021/paperlint) • [Demo](https://www.loom.com/share/3b02e824f3db4e03abfb688114131c1d) • [Live](https://paperlint.vercel.app)
-- **Solar** — Autonomous multi-agent software factory that turns GitHub issues into reviewed, tested PRs using isolated sandboxes and Armoriq intent guardrails. [GitHub](https://github.com/sundaram2021/solar) • [Demo](https://github.com/user-attachments/assets/d462ad6e-9085-4084-bcc5-c77cd187ee62) • [Live](https://solar-wheat-five.vercel.app)
 - **Orchestrator** — Desktop IDE (Tauri 2) orchestrating local coding harnesses (OpenCode + Antigravity) with per-agent git worktrees, MCP routing, checkpoints, and commit-and-PR landing. [GitHub](https://github.com/sundaram2021/orchestrator)
+- **Solar** — Autonomous multi-agent software factory that turns GitHub issues into reviewed, tested PRs using isolated sandboxes and Armoriq intent guardrails. [GitHub](https://github.com/sundaram2021/solar) • [Demo](https://github.com/user-attachments/assets/d462ad6e-9085-4084-bcc5-c77cd187ee62) • [Live](https://solar-wheat-five.vercel.app)
 - **Orbit** — Self-improving software factory for GitHub: classifies issues, then spawns sandboxed implementation/review/test agents with shared memory and eval gates. [GitHub](https://github.com/sundaram2021/orbit) • [Demo](https://github.com/user-attachments/assets/b36434e8-c3f3-4e15-bba1-0e44eeab4639) • [Live](https://orbit-alpha-lemon.vercel.app)
+- **PaperLint** — AI-powered anomaly and plagiarism detector for research papers; indexes uploads into a FalkorDB graph and returns an evidence-backed, chat-able review. [GitHub](https://github.com/sundaram2021/paperlint) • [Demo](https://www.loom.com/share/3b02e824f3db4e03abfb688114131c1d) • [Live](https://paperlint.vercel.app)
+- **Deep Research Agent** — 59 tools, 6 namespaces , total 11 agents, avg response time 3 mins . [GitHub](https://github.com/sundaram2021/deep-research-agent)
+- **AI Interviewer** - Voice AI Interviwer where you upload your resume and github username and then give your interview on basis of your resume and github details. [Github](https://github.com/sundaram2021/ai-interviewer)
+- **Distributed Cache** — Production-ready distributed cache in Go with consistent hashing, eviction policies, compression, and replication. [GitHub](https://github.com/sundaram2021/distributed-cache)
+- **Open Agent Builder** — Visual drag-and-drop workflow builder for AI agents with real-time web scraping pipeline execution. [GitHub](https://github.com/sundaram2021/open-agent-builder) • [Demo](https://www.loom.com/embed/5f7eaf19e07d499bb5cca4570e9586d6)
+- **Smurf** — CLI tool that simplifies and automates DevOps commands across Terraform, Docker, Helm, and Kubernetes. [GitHub](https://github.com/clouddrove/smurf) • [Live](https://smurf.clouddrove.com)
+- **Multi-Agent System Design Architect** — 4-agent system with coordinator + sequential pattern (clarify → research → validate → design) for AI-powered tech architecture. [GitHub](https://github.com/sundaram2021/system-design-architect.git) • [Demo](https://www.loom.com/share/2a933a20458d4ff9a21944f3443e6653) • [Live](https://system-design-architect.vercel.app/)
 - **Jaanch** — AI investigation tool that extracts claims from any article and verifies each against independent sources, producing a cited verdict report. [GitHub](https://github.com/sundaram2021/jaanch) • [Demo](https://www.loom.com/share/801ca4e5751b42409c6a164cf7304983) • [Live](https://jaanch-nu.vercel.app)
-- **Autonoums Browser Agent** - An Autonomous Browser Agent, clude api , multi-tab support, screnshot support, session persistence etc [Github](https://github.com/sundaram2021/autonomous-browser-agent) • [DEMO](https://github.com/user-attachments/assets/f27d733f-dbc1-42c4-87dc-4f4483cce56b)
 - **Sandbox Agent** - An autonomous sandbox agent powered by tensorlake sandboxes [Github](https://github.com/sundaram2021/sandbox-agent) [DEMO](https://github.com/user-attachments/assets/eb9fefa2-7a20-42e6-87fa-ab18b0159874
 )
-- **AI Interviewer** - Voice AI Interviwer where you upload your resume and github username and then give your interview on basis of your resume and github details. [Github](https://github.com/sundaram2021/ai-interviewer)
+- **Autonoums Browser Agent** - An Autonomous Browser Agent, clude api , multi-tab support, screnshot support, session persistence etc [Github](https://github.com/sundaram2021/autonomous-browser-agent) • [DEMO](https://github.com/user-attachments/assets/f27d733f-dbc1-42c4-87dc-4f4483cce56b)
+- **LLM Observability System from Scratch** - Simple LLM observability platform built from ground up. [Github](https://github.com/sundaram2021/observability-system)
 - **Voice llm Memory System** - Realtime Graphical Memory System for Voice AI [Github](https://github.com/sundaram2021/voice-ai-memory-system)
 - **AI Observability System** - AI Observability system integrated with Mastra, Vercel and OpenAI sdk [Github](https://github.com/sundaram2021/agnost-integration)
-- **LLM Observability System from Scratch** - Simple LLM observability platform built from ground up. [Github](https://github.com/sundaram2021/observability-system)
-- **Context Compact System** -  LLM context compaction System [Github](https://github.com/sundaram2021/ai-context-compaction)
-- **Deep Research Agent** — 59 tools, 6 namespaces , total 11 agents, avg response time 3 mins . [GitHub](https://github.com/sundaram2021/deep-research-agent)
-- **Multi-Agent System Design Architect** — 4-agent system with coordinator + sequential pattern (clarify → research → validate → design) for AI-powered tech architecture. [GitHub](https://github.com/sundaram2021/system-design-architect.git) • [Demo](https://www.loom.com/share/2a933a20458d4ff9a21944f3443e6653) • [Live](https://system-design-architect.vercel.app/)
+- **n8n for GitHub** — Visual node-based workflow automation tool tailored for GitHub events and actions. [GitHub](https://github.com/sundaram2021/n8nforgithub) • [Live](https://n8nforgithub.vercel.app/)
+- **Static Blog Site Generator** — Next.js blog generator with built-in GitHub Actions CI/CD and one-click hosting. [GitHub](https://github.com/sundaram2021/github-blog-generator) • [Live](https://github-blog-generator-psi.vercel.app/)
 - **RAG System** — Upload PDFs, ask questions, and get streaming answers with source citations using private embeddings. [GitHub](https://github.com/sundaram2021/rag-system)
 - **MCP Servers** — Suite of MCP servers for Docker management, memory/notes storage, project scaffolding, and prompt enhancement. [GitHub](https://github.com/sundaram2021/mcp-servers)
-- **Open Agent Builder** — Visual drag-and-drop workflow builder for AI agents with real-time web scraping pipeline execution. [GitHub](https://github.com/sundaram2021/open-agent-builder) • [Demo](https://www.loom.com/embed/5f7eaf19e07d499bb5cca4570e9586d6)
-- **Static Blog Site Generator** — Next.js blog generator with built-in GitHub Actions CI/CD and one-click hosting. [GitHub](https://github.com/sundaram2021/github-blog-generator) • [Live](https://github-blog-generator-psi.vercel.app/)
-- **n8n for GitHub** — Visual node-based workflow automation tool tailored for GitHub events and actions. [GitHub](https://github.com/sundaram2021/n8nforgithub) • [Live](https://n8nforgithub.vercel.app/)
-- **Smurf** — CLI tool that simplifies and automates DevOps commands across Terraform, Docker, Helm, and Kubernetes. [GitHub](https://github.com/clouddrove/smurf) • [Live](https://smurf.clouddrove.com)
+- **Context Compact System** -  LLM context compaction System [Github](https://github.com/sundaram2021/ai-context-compaction)
 - **AWS Cost Optimization Calculator** — Tool for estimating and optimizing AWS infrastructure costs. [Live](https://calculator.clouddrove.com)
-- **Distributed Cache** — Production-ready distributed cache in Go with consistent hashing, eviction policies, compression, and replication. [GitHub](https://github.com/sundaram2021/distributed-cache)
 
 ### 🎮 Games
 
