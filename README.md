@@ -1,6 +1,3 @@
-
-
-
 ### Hey👋! I'm Sundaram
 - 🎮 Creator of [JsQuest](https://jsquest.xyz) A Gamified way to learn JavaScript. Its free to use and no signups needed.
 - 💼 Intrested in Full Stack , Backend,  AI (Agents, Rag, MCPs, Evaluation, Observability, Harnesses) technologies.
@@ -42,6 +39,10 @@
 - **Minecraft 3D (WebMCP)** — Procedural voxel sandbox with 14 biomes, mobs, and crafting, exposing 23 WebMCP tools so an AI co-pilot can build and terraform in-game. [GitHub](https://github.com/sundaram2021/minecraft) • [Demo](https://www.loom.com/share/ddb2af9b773448e5a8924102c4e1e734) • [Live](https://minecraft-sooty-phi.vercel.app)
 - **Operation Blackout** — Zero-binary-asset first-person shooter: every mesh, texture, sound, and animation generated in code across ~53.6k lines of JavaScript. [Live](https://literate-winner-two.vercel.app)
 - **Starfall Armada** — Three.js arcade shooter built for Cursor Vibe Jam 2026 with 4 pilots, 5 procedural environments, and 5 escalating survival levels. [GitHub](https://github.com/sundaram2021/spaceinvader-vibe-jam) • [Live](https://spaceinvader-vibe-jam.vercel.app)
+
+### 🖊️🤖 Agent Skills
+- **Tech Explainer** - Explain complex technical concepts, codebases, bugs, and architectures in simple, beginner-friendly language, tracing the relevant source files. [LINK](https://www.skills.sh/sundaram2021/my-skills/tech-explainer)
+- **Fix Issue** - Fix bugs from existing GitHub issues or urgent hotfixes, verify changes, and ensure all tests and builds pass. [LINK](https://www.skills.sh/sundaram2021/my-skills/fix-the-issue)
 
 ### 📊 GitHub Activity
 
